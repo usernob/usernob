@@ -3,11 +3,17 @@
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Usernob.Usernob)
-### Summary
+<details><summary><h3>Summary</h3></summary>
+<p>
+
 - [About](#About)
 - [Stats](#Stats)
 - [Language](#Language)
 - [Social media](#Social-media)
+
+</p>
+</details>
+
 -----------------------
 ### About
 I am a student, I am 16 years old and I am from Indonesia. I like technology and computers. I'm still a very newbie and still need a lot of guidance. I just learned programming when work from home started.
