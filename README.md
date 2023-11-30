@@ -1,4 +1,4 @@
-<img width="50%" style="margin: auto" class="not-prose" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4">
+<img width="100%" style="margin: auto" class="not-prose" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4">
 
 ## About Me
 
@@ -27,4 +27,4 @@
 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usernob&theme=transparent&hide_border=true&locale=id&layout=compact&count_private=false&title_color=ffffff&text_color=ffffff&card_width=700pxlangs_count=9">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usernob&theme=transparent&hide_border=true&locale=id&layout=compact&count_private=false&title_color=ffffff&text_color=ffffff&langs_count=9">
