@@ -27,4 +27,8 @@
 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usernob&theme=transparent&hide_border=true&locale=id&layout=compact&count_private=false&title_color=ffffff&text_color=ffffff&langs_count=9">
+![](https://raw.githubusercontent.com/usernob/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/usernob/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/usernob/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/usernob/github-stats/master/generated/languages.svg#gh-light-mode-only)
