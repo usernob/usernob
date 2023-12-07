@@ -27,8 +27,10 @@
 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
 </div>
 
-![](https://raw.githubusercontent.com/usernob/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/usernob/github-stats/master/generated/overview.svg#gh-light-mode-only)
+<div style="display: flex; flex-wrap: wrap">
+  <img src="https://raw.githubusercontent.com/usernob/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/usernob/github-stats/master/generated/overview.svg#gh-light-mode-only">
 
-![](https://raw.githubusercontent.com/usernob/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/usernob/github-stats/master/generated/languages.svg#gh-light-mode-only)
+  <img src="https://raw.githubusercontent.com/usernob/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/usernob/github-stats/master/generated/languages.svg#gh-light-mode-only">
+</div>
